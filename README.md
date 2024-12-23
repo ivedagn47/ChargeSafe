@@ -73,20 +73,6 @@ The project follows a modular architecture:
 
 ---
 
-## Challenges
-- Handling large datasets with efficient processing.
-- Ensuring accurate data transformation for meaningful insights.
-- Maintaining security and compliance with sensitive data.
-
----
-
-## Future Improvements
-- Add machine learning-based fraud detection models.
-- Automate anomaly detection using Azure Machine Learning.
-- Expand the pipeline to handle streaming transaction data.
-
----
-
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your proposed changes.
 
@@ -94,9 +80,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-## Contact
-For questions or support, contact [Your Name] at [Your Email Address].
 
